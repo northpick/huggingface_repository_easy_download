@@ -14,8 +14,8 @@
 
 #### 直接使用
 1. 下载本项目文件
-2. 项目已安装Python
-3. 运行`启动器.bat`（Windows）或直接执行`python download.py`
+2. 项目已安装Python和相关包
+3. 运行`download.bat`（Windows）或直接执行`python download.py`
 
 
 ### 🚀 使用方法
@@ -42,7 +42,9 @@ huggingface-downloader/
 ├── download.bat          # Windows启动脚本
 ├── README.md           # 项目说明
 ├── python             # Python便携包
+├── update.py          # 更新huggingface_hub库
 └── LICENSE            # 开源许可证
+
 ```
 
 ### 🔧 功能对比
