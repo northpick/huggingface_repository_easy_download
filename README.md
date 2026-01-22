@@ -13,7 +13,7 @@
 ### 📦 安装与快速开始
 
 #### 直接使用
-1. 下载本项目文件
+1. 下载本项目文件HFR_easy_download.zip并解压
 2. 项目已安装Python和相关包
 3. 运行`download.bat`（Windows）或直接执行`python download.py`
 
