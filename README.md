@@ -1,0 +1,2 @@
+# huggingface_repository_easy_download
+梯子不好也要一键下载抱抱脸仓库
